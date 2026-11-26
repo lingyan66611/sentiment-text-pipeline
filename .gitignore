@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+result/
+预处理结果/
+采集中间文件/
+文档资料/
+_work_词库记录/
+*.csv
+*_cookies.json
+*checkpoint*.json
