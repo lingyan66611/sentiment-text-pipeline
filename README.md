@@ -15,7 +15,7 @@ collect_weibo.py / collect_weibo_comments.py / collect_zhihu.py / collect_xiaoho
 - SimHash 近似去重，35 万条原始文本保留 60,329 条有效语料
 
 ## 产出
-7 类结构化数据集（CSV/JSON），字段定义见 docs 说明；原始语料与中间文件体积大，未入库。
+7 类结构化数据集（CSV/JSON），字段定义见预处理脚本内的字段映射；原始语料与中间文件体积大，未入库。
 
 ## 分工
 采集与预处理（本项目代码范围）；下游分析与建模由组内另一位同学完成。
